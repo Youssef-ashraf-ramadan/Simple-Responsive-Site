@@ -1,0 +1,233 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+html,body{
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+
+.about{
+    background-color: rgb(2, 2, 2);
+    color: white;
+    
+}
+.h1{
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 35px;
+  
+}
+
+.hr{
+    border: 1px solid rgba(54, 51, 51, 0.6);
+
+}
+.hr2{
+    border: 1px solid rgba(54, 51, 51, 0.6);
+
+}
+.img{
+  width: 100%;
+}
+.p{
+    display: inline-block;
+    color: white;
+}
+.p2{
+    display: inline-block;
+    color: white;
+}
+
+.pricing{
+    background-color: rgb(2, 2, 2);
+    margin: 0px;
+    text-align: center;
+}
+.hr3{
+    border: 1px solid rgba(54, 51, 51, 0.6);
+
+}
+.h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    color: white;
+
+}
+
+
+.photos{
+    background-color: rgb(2, 2, 2);
+    margin:0px;
+   
+}
+
+.button{
+    background-color: rgb(2, 2, 2);
+    color: white;
+    border: 2px solid white;
+    padding: 10px;
+}
+
+.girl1{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.linda{
+    color: white;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 200px;
+}
+.man1{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.man3{
+    color: white;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 200px;
+}
+
+
+/*Start of Footer Css*/
+
+.card {
+    padding: 2% 7%;
+    color: #646771;
+    background-color: rgb(34, 32, 32);
+    border-radius: 20px;
+    margin-left: 2px;
+    margin-top: 400px;
+   
+    
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0
+}
+
+ul>li {
+    padding: 4px
+}
+
+ul>li:hover {
+    color: #957bda;
+    cursor: pointer
+}
+
+hr {
+    border-width: 3px
+}
+
+.social>i {
+    padding: 1%;
+    font-size: 15px
+}
+
+.social>i:hover {
+    color: #957bda;
+    cursor: pointer
+}
+
+.policy>div {
+    padding: 4px
+}
+
+.heading {
+    font-family: 'Titillium Web', sans-serif;
+    color: white
+}
+
+.divider {
+    border-top: 2px solid rgba(189, 196, 203, 0.5);
+}
+/*End of footer Css*/
+
+
+
+ .contact{
+     text-align: center;
+     margin-top: 180px;
+     color: white;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .contactus{
+    background-color: rgb(2, 2, 2);
+ }
+
+ .details{
+     text-align: center;
+     color: white;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+.box{
+    width: 400px;
+    height: 500px;
+    background-color: rgba(58, 57, 57,0.4);
+    margin: auto;
+    border-radius: 100px;
+   
+    
+}
+.name{
+    color: white;
+    margin-left: 30px;
+    margin-top: 40px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+
+}
+.input{
+    border-radius: 10px;
+    outline: none;
+    border:0px solid white;
+}
+
+    .email{
+    color: white;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 50px;
+    margin-top: 40px;
+
+}
+.input2{
+    border-radius: 10px;
+    outline: none;
+    border:0px solid white;
+    margin-left: 20px;
+}
+.massege{
+    font-size: 20px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 135px;
+    margin-top: 40px;
+}
+
+.textarea{
+    margin-left: 50px;
+    padding: 40px;
+    border-radius: 20px;
+    outline: none;
+    border: 0px solid white;
+}
+.Send{
+    margin-top:50px;
+    margin-left: 150px;
+    padding: 10px 25px;
+    border-radius: 50px;
+    border:0px solid white;
+
+}
